@@ -1,0 +1,14 @@
+C:\Users\Desarrollo_Optecom\source\repos\El Zoológico municipal\El Zoológico municipal\bin\Debug\netcoreapp3.1\El Zoológico municipal.exe
+C:\Users\Desarrollo_Optecom\source\repos\El Zoológico municipal\El Zoológico municipal\bin\Debug\netcoreapp3.1\El Zoológico municipal.deps.json
+C:\Users\Desarrollo_Optecom\source\repos\El Zoológico municipal\El Zoológico municipal\bin\Debug\netcoreapp3.1\El Zoológico municipal.runtimeconfig.json
+C:\Users\Desarrollo_Optecom\source\repos\El Zoológico municipal\El Zoológico municipal\bin\Debug\netcoreapp3.1\El Zoológico municipal.runtimeconfig.dev.json
+C:\Users\Desarrollo_Optecom\source\repos\El Zoológico municipal\El Zoológico municipal\bin\Debug\netcoreapp3.1\El Zoológico municipal.dll
+C:\Users\Desarrollo_Optecom\source\repos\El Zoológico municipal\El Zoológico municipal\bin\Debug\netcoreapp3.1\El Zoológico municipal.pdb
+C:\Users\Desarrollo_Optecom\source\repos\El Zoológico municipal\El Zoológico municipal\obj\Debug\netcoreapp3.1\El Zoológico municipal.csproj.AssemblyReference.cache
+C:\Users\Desarrollo_Optecom\source\repos\El Zoológico municipal\El Zoológico municipal\obj\Debug\netcoreapp3.1\El Zoológico municipal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo_Optecom\source\repos\El Zoológico municipal\El Zoológico municipal\obj\Debug\netcoreapp3.1\El Zoológico municipal.AssemblyInfoInputs.cache
+C:\Users\Desarrollo_Optecom\source\repos\El Zoológico municipal\El Zoológico municipal\obj\Debug\netcoreapp3.1\El Zoológico municipal.AssemblyInfo.cs
+C:\Users\Desarrollo_Optecom\source\repos\El Zoológico municipal\El Zoológico municipal\obj\Debug\netcoreapp3.1\El Zoológico municipal.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo_Optecom\source\repos\El Zoológico municipal\El Zoológico municipal\obj\Debug\netcoreapp3.1\El Zoológico municipal.dll
+C:\Users\Desarrollo_Optecom\source\repos\El Zoológico municipal\El Zoológico municipal\obj\Debug\netcoreapp3.1\El Zoológico municipal.pdb
+C:\Users\Desarrollo_Optecom\source\repos\El Zoológico municipal\El Zoológico municipal\obj\Debug\netcoreapp3.1\El Zoológico municipal.genruntimeconfig.cache

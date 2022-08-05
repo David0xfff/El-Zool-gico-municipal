@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "El Zoológico municipal/1.0.0": {
+        "runtime": {
+          "El Zoológico municipal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "El Zoológico municipal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
